@@ -19,7 +19,7 @@ An AI-powered system that automatically finds and organizes photos of specific p
 
 ## 🎬 Demo
 
-🔗 **Live Demo**: [Try it on Hugging Face Spaces](https://huggingface.co/spaces/YOUR_USERNAME/face-extraction)
+🔗 **Live Demo**: [Try it on Hugging Face Spaces](https://huggingface.co/spaces/utsav05/ImageClustering)
 
 ### Example Output
 
